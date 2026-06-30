@@ -87,8 +87,8 @@ const AboutSection = () => (
           <div className="space-y-6">
             <p className="text-muted-foreground leading-relaxed text-lg font-body">
               Bench2Boss is a premium branding and digital services company founded by
-              <strong className="text-foreground"> Karthi M</strong> &{" "}
-              <strong className="text-foreground">Rajarajan M</strong>. We specialize in
+              <strong className="text-foreground"> Karthi M</strong> {" "}
+              <strong className="text-foreground"></strong>. We specialize in
               transforming careers and businesses through strategic branding, innovative
               digital solutions, and professional consulting.
             </p>
